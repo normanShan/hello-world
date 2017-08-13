@@ -10,3 +10,5 @@ change to dev
 use origin
 
 Today is Sunday~
+
+git push using GUI
