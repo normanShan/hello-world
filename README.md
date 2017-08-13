@@ -8,3 +8,5 @@ git push master to master
 change to dev 
 
 use origin
+
+Today is Sunday~
