@@ -6,3 +6,5 @@ remote modification
 git push remote master
 git push master to master
 change to dev 
+
+use origin
